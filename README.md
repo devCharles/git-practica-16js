@@ -5,4 +5,5 @@
 3. Jessica Vargas @Jesvadtz
 4. Erick Palma @ErickPSDev
 5. Victor Cosme @vcosmema
-6. Ruben Somuano @RubSDev
+6. Hugo Ro @HugoRoo
+7. Ruben Somuano @RubSDev
