@@ -7,3 +7,4 @@
 5. Victor Cosme @vcosmema
 6. Hugo Ro @HugoRoo
 7. Bryan Rodriguez @Vryahn
+8. Pablo Diaz Solis @Solis1324
