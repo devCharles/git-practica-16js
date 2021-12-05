@@ -6,3 +6,4 @@
 4. Erick Palma @ErickPSDev
 5. Victor Cosme @vcosmema
 6. Hugo Ro @HugoRoo
+7. Bryan Rodriguez @Vryahn
