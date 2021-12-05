@@ -4,4 +4,5 @@
 2. Aldahir Mayorga @AldaMayorgaDev
 3. Jessica Vargas @Jesvadtz
 4. Erick Palma @ErickPSDev
-5. Ruben Somuano @RubSDev
+5. Victor Cosme @vcosmema
+6. Ruben Somuano @RubSDev
