@@ -1,6 +1,6 @@
 # Javascript 16
 
-1. Testinio fakencio @NoSoyReal
 1. Charles Silva @DevCharles
-2. Bryan Rodriguez @Vryahn
-3. Erick Palma Sánchez @ErickPSDev
+2. Aldahir Mayorga @AldaMayorgaDev
+3. Jessica Vargas @Jesvadtz
+4. Erick Palma @ErickPSDev
